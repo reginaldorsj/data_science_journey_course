@@ -2,6 +2,7 @@
 __pycache__
 *.pkl
 flagged
+processed
 /Supervised Learning - Classification - Project 3/X_train_original.csv
 /Supervised Learning - Classification - Project 3/X_train_best.csv
 /Supervised Learning - Classification - Project 3/X_test_original.csv
